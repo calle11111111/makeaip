@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Make AI Porn - Top AI Generators</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+    body {
+      font-family: 'Raleway', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #101010;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    a { text-decoration: none; }
+
+    header {
+      background: linear-gradient(90deg, #ff416c, #ff4b2b);
+      padding: 60px 20px;
+      text-align: center;
+      color: white;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      position: relative;
+      overflow: hidden;
+      animation: glow 3s infinite alternate;
+    }
+
+    @keyframes glow {
+      from { box-shadow: 0 0 10px #ff4b2b; }
+      to { box-shadow: 0 0 30px #ff416c; }
+    }
+
+    header h1 { font-size: 3em; letter-spacing: 2px; text-transform: uppercase; font-weight: 700; }
+    header p { font-size: 1.2em; color: #fff9d6; margin-top: 15px; }
+
+    .container { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+    h2 {
+      color: #ff4b2b;
+      border-bottom: 2px solid #ff4b2b;
+      display: inline-block;
+      padding-bottom: 8px;
+      margin-top: 50px;
+      font-size: 2em;
+      font-weight: 600;
+    }
+
+    .card {
+      background: #1a1a1a;
+      border-radius: 14px;
+      padding: 20px;
+      margin: 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover { transform: translateY(-5px); box-shadow: 0 8px 30px rgba(255, 75, 43, 0.3); }
+
+    .preview { flex: 1 1 200px; max-width: 300px; }
+    .preview img { width: 100%; height: auto; border-radius: 8px; display: block; object-fit: cover; }
+
+    .info { flex: 2 1 300px; }
+    .info h3 { color: #fff; font-size: 1.6em; }
+    .stars { color: gold; font-size: 1.2em; margin-top: 4px; }
+    .info p { color: #ccc; font-size: 0.95em; margin-top: 8px; }
+
+    .button {
+      background: #ff4b2b; color: #fff; padding: 10px 20px;
+      border-radius: 8px; font-weight: 600; transition: background 0.3s, transform 0.2s;
+      display: inline-block; margin-top: 10px;
+    }
+
+    .button:hover { background: #ff416c; transform: scale(1.05); }
+
+    hr { border: 0; border-top: 2px solid #ff4b2b; margin: 60px 0; }
+
+    footer {
+      text-align: center; padding: 40px 20px; font-size: 0.9em;
+      color: #aaa; background-color: #111;
+    }
+
+    .disclaimer, .affiliate-note {
+      font-size: 0.8em; color: #777; margin-top: 20px;
+      max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.4;
+    }
+
+    @media(max-width: 768px) {
+      .card { flex-direction: column; text-align: center; }
+      .preview { max-width: 100%; }
+      .info { text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Make AI Porn</h1>
+  <p>Discover the hottest AI adult content tools. Hand-picked & updated every month 🔥</p>
+</header>
+
+<div class="container">
+  <h2>Top 20 Make AI Porn</h2>
+
+  <!-- Plac 1 -->
+  <div class="card">
+    <div class="preview">
+      <img src="https://i.postimg.cc/D05M790k/671618f69785afc78df8870a.jpg" alt="CreatePorn preview">
+    </div>
+    <div class="info">
+      <h3>1. CreatePorn</h3>
+      <div class="stars">★★★★★</div>
+      <p>Powerful AI porn generator, highly customizable and realistic results.</p>
+    </div>
+    <a href="https://createporn.com" class="button" target="_blank" rel="noopener noreferrer">Visit Site</a>
+  </div>
+
+  <!-- Plac 2–20 -->
+  <!-- Använd placeholder-bilder tills riktiga bilder skickas -->
+  <div class="card">
+    <div class="preview">
+      <img src="placeholder2.jpg" alt="Placeholder 2">
+    </div>
+    <div class="info">
+      <h3>2. PornWorks</h3>
+      <div class="stars">★★★★★</div>
+      <p>Professional-grade AI adult content creator platform with amazing detail.</p>
+    </div>
+    <a href="#" class="button" target="_blank">Visit Site</a>
+  </div>
+
+  <div class="card">
+    <div class="preview">
+      <img src="placeholder3.jpg" alt="Placeholder 3">
+    </div>
+    <div class="info">
+      <h3>3. SoulGen</h3>
+      <div class="stars">★★★★☆</div>
+      <p>High-quality AI-generated images with realistic faces and details.</p>
+    </div>
+    <a href="#" class="button" target="_blank">Visit Site</a>
+  </div>
+
+  <!-- Fortsätt på samma sätt upp till 20 -->
+  <div class="card">
+    <div class="preview"><img src="placeholder4.jpg" alt="Placeholder 4"></div>
+    <div class="info"><h3>4. HeraHaven</h3><div class="stars">★★★★☆</div><p>Platform to explore and create adult AI content.</p></div>
+    <a href="#" class="button" target="_blank">Visit Site</a>
+  </div>
+
+  <!-- ... och så vidare upp till 20 ... -->
+</div>
+
+<hr />
+
+<footer>
+  <p>Page last updated: <span id="lastUpdated"></span></p>
+  <div class="disclaimer">
+    <p>All listed sites are intended for adults (18+). MakeAIPorn.net is not responsible for content on external sites. We only provide links and information for entertainment purposes.</p>
+    <p>&copy; 2025 MakeAIPorn.net</p>
+  </div>
+  <div class="affiliate-note">
+    <p>Note: This site contains affiliate links. We may earn a small commission if you click on the links and make a purchase, which helps support us to continue improving the site.</p>
+  </div>
+</footer>
+
+<script>
+  const monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const today = new Date();
+  document.getElementById("lastUpdated").textContent = monthNames[today.getMonth()] + " " + today.getFullYear();
+</script>
+
+</body>
+</html>
